@@ -1,6 +1,6 @@
 # Introducción a las Ciencias de la Computación
 ## Práctica05
-EEl objetivo de esta práctica es que el alumno comprenda el concepto de paquetes para agrupar
+El objetivo de esta práctica es que el alumno comprenda el concepto de paquetes para agrupar
 clases y al final sea capaz de crear sus propios paquetes.
 ## Equipo #18
 Diego Hernández Vázquez
